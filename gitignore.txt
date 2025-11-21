@@ -1,0 +1,43 @@
+# Node / JS
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+*.log
+
+# Expo / RN
+.expo/
+.expo-shared/
+.expo/*/cache/
+.expo/*/devices/
+.expo/*/packager-info.json
+.expo/*/settings.json
+
+# Android
+android/.gradle/
+android/.idea/
+android/app/build/
+android/build/
+*.apk
+*.aab
+
+# iOS
+ios/Pods/
+ios/build/
+ios/DerivedData/
+
+# Web / Bundles
+dist/
+build/
+.out/
+.next/
+
+# Misc
+.DS_Store
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
